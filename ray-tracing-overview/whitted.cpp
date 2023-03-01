@@ -37,6 +37,7 @@
 #include <iostream>
 #include <fstream>
 #include <cmath>
+#include <limits>
 
 const float kInfinity = std::numeric_limits<float>::max();
 

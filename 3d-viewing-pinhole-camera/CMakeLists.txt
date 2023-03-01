@@ -1,0 +1,2 @@
+
+add_executable(3d_view_pinhole_camera pinhole.cpp)
